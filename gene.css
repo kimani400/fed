@@ -1,0 +1,20 @@
+li{
+    display: inline-block;
+    background-color: rgb(147, 189, 189);
+    text-align: center;
+    list-style-type: none;
+}
+a:hover{
+    cursor: pointer;
+    color: aliceblue;
+    background-color: black;
+    transform: translateY(0.9);
+    box-shadow: 2px azure;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    list-style-type: none;
+    text-decoration: none;
+}
+h1{
+    color: blanchedalmond;
+    background-color: rgb(8, 32, 248);
+}
